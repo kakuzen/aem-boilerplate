@@ -12,11 +12,11 @@
   background-color: var(--background-color);
 }
 
-.other-block .other-block-card-body {
+.other-block .cards-card-body {
   margin: 16px;
 }
 
-.other-block .other-block-card-image {
+.other-block .cards-card-image {
   line-height: 0;
 }
 
