@@ -10,6 +10,7 @@
 .other-block > ul > li {
   border: 1px solid #dadada;
   background-color: var(--background-color);
+  color: #f00;
 }
 
 .other-block .cards-card-body {
